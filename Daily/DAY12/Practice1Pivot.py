@@ -45,5 +45,6 @@ def percentage_fn(val):
 
 print("\n$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$")
 df_latestMerged["Sale_StorePercentage"]=df_latestMerged.apply(percentage_fn,axis=1)
+df_latestMerged.rename(columns={"Sales":"SalesPerStore"},inplace=True)
 print(df_latestMerged)
 print("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$")
