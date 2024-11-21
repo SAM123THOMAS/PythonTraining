@@ -5,4 +5,4 @@ url="https://wizard-world-api.herokuapp.com/Spells"
 response= requests.get(url)
 print(response)
 df=pd.DataFrame(response.json())
-print(df[["name","incantation","type","light"]])
+print(df[["name","incantation","effect","type","light"]])
