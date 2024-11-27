@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 #url="https://www.worldometers.info/world-population/population-by-country/"
-url="https://www.worldometers.info/world-population/"
+url="https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)"
 response=requests.get(url)
 
 soup=BeautifulSoup(response.text,'html.parser')
@@ -17,10 +17,9 @@ for row in rows:
     cells=row.find_all('td')
     data=[cell.text.strip() for cell in cells]
     master_List.append(data)
-print(pd.DataFrame(master_List))
 
-filename="Population1.csv"
-with open(filename,'w') as file:
-    writer = csv.writer(file)
-    writer.writerows(master_List)
-file.close
+df=pd.DataFrame(master_List,columns=['Country/Territory','Population 2022','Population 2023','Change','Region','SubRegion'])
+df=df.dropna()
+
+filename="Population.csv"
+df.to_csv(filename,index=False)
