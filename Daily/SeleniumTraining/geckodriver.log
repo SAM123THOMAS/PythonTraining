@@ -1,0 +1,642 @@
+1732938792390	geckodriver	INFO	Listening on 127.0.0.1:50256
+1732938795512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50257" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileZZZwQO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732938796072	Marionette	INFO	Marionette enabled
+1732938796288	Marionette	INFO	Listening on port 50265
+WebDriver BiDi listening on ws://127.0.0.1:50257
+Read port: 50265
+1732938796584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50257/devtools/browser/592aabd0-3332-4ee8-b8ae-f7c1c1707e0c
+1732938809964	Marionette	INFO	Stopped listening on port 50265
+Dynamically enable window occlusion 1
+1732970323384	geckodriver	INFO	Listening on 127.0.0.1:54633
+1732970326453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54634" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileTW7DN1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732970326924	Marionette	INFO	Marionette enabled
+1732970327109	Marionette	INFO	Listening on port 54642
+WebDriver BiDi listening on ws://127.0.0.1:54634
+Read port: 54642
+1732970327350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54634/devtools/browser/4d2764cd-7b48-4a91-95ee-3836f9e689c9
+1732970342486	Marionette	INFO	Stopped listening on port 54642
+Dynamically enable window occlusion 1
+1733029616957	geckodriver	INFO	Listening on 127.0.0.1:58691
+1733029620045	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58692" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile8yv87z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733029620439	Marionette	INFO	Marionette enabled
+1733029620578	Marionette	INFO	Listening on port 58702
+WebDriver BiDi listening on ws://127.0.0.1:58692
+Read port: 58702
+1733029620792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58692/devtools/browser/55ac4b49-b3a7-40f7-885f-f516f6f49696
+1733029650690	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://duckduckgo.com/_next/static/chunks/main-d4b13818a262f8be.js, line 1: Script terminated by timeout at:
+o@https://duckduckgo.com/_next/static/chunks/main-d4b13818a262f8be.js:1:96438
+78018/F/<@https://duckduckgo.com/_next/static/chunks/main-d4b13818a262f8be.js:1:96917
+r@https://duckduckgo.com/_next/static/chunks/main-d4b13818a262f8be.js:1:92651
+
+1733031332036	Marionette	INFO	Stopped listening on port 58702
+Dynamically enable window occlusion 1
+Z_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733029742456	Marionette	INFO	Marionette enabled
+1733029742588	Marionette	INFO	Listening on port 58824
+WebDriver BiDi listening on ws://127.0.0.1:58817
+Read port: 58824
+1733029742777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58817/devtools/browser/a29081eb-1aa6-4699-b862-c0b2867ca171
+1733029772476	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.gstatic.com/og/_/js/k=og.asy.en_US.sNWoy4fBUJA.2019.O/rt=j/m=_ac,_awd,ada,lldp,qads/exm=/d=1/ed=1/rs=AA2YrTtpLnwobp8543Do-yuwT_YyjAs8Xg, line 100: Script terminated by timeout at:
+_.ug@https://www.gstatic.com/og/_/js/k=og.asy.en_US.sNWoy4fBUJA.2019.O/rt=j/m=_ac,_awd,ada,lldp,qads/exm=/d=1/ed=1/rs=AA2YrTtpLnwobp8543Do-yuwT_YyjAs8Xg:100:292
+_.vg@https://www.gstatic.com/og/_/js/k=og.asy.en_US.sNWoy4fBUJA.2019.O/rt=j/m=_ac,_awd,ada,lldp,qads/exm=/d=1/ed=1/rs=AA2YrTtpLnwobp8543Do-yuwT_YyjAs8Xg:100:438
+Og@https://www.gstatic.com/og/_/js/k=og.asy.en_US.sNWoy4fBUJA.2019.O/rt=j/m=_ac,_awd,ada,lldp,qads/exm=/d=1/ed=1/rs=AA2YrTtpLnwobp8543Do-yuwT_YyjAs8Xg:109:38
+b@https://www.gstatic.com/og/_/js/k=og.asy.en_US.sNWoy4fBUJA.2019.O/rt=j/m=_ac,_awd,ada,lldp,qads/exm=/d=1/ed=1/rs=AA2YrTtpLnwobp8543Do-yuwT_YyjAs8Xg:106:471
+
+JavaScript warning: https://duckduckgo.com/dist/util/u.5417722e732c999323af.js, line 1: Script terminated by timeout at:
+_getPixelConfig@https://duckduckgo.com/dist/util/u.5417722e732c999323af.js:1:30535
+fire@https://duckduckgo.com/dist/util/u.5417722e732c999323af.js:1:19883
+ready/<@https://duckduckgo.com/dist/g.87af0cd1731ceffaa9f0.js:1:104182
+
+1733031332029	Marionette	INFO	Stopped listening on port 58824
+Dynamically enable window occlusion 1
+ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilekVLGCm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733029834929	Marionette	INFO	Marionette enabled
+1733029835080	Marionette	INFO	Listening on port 58983
+WebDriver BiDi listening on ws://127.0.0.1:58974
+Read port: 58983
+1733029835301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58974/devtools/browser/71b26d37-5be7-4571-87f3-6899f34cbbb4
+1733029855025	Marionette	INFO	Stopped listening on port 58983
+Dynamically enable window occlusion 1
+1733029864101	geckodriver	INFO	Listening on 127.0.0.1:59043
+1733029867146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59044" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiled2ILds"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733029867562	Marionette	INFO	Marionette enabled
+1733029867708	Marionette	INFO	Listening on port 59051
+WebDriver BiDi listening on ws://127.0.0.1:59044
+Read port: 59051
+1733029867942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59044/devtools/browser/83a9c813-f512-41fe-87f3-97c4d0e352d8
+1733029899095	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lt2cCoPsX252dEmzUuMfQOVAz67OvgkgZdQzIFlkHFY.js line 2 > eval line 3652 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-WCZ03SZFCQ, line 662: Script terminated by timeout at:
+h.Uh@https://www.googletagmanager.com/gtag/js?id=G-WCZ03SZFCQ:662:30
+get@https://www.googletagmanager.com/gtag/js?id=G-WCZ03SZFCQ:660:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-WCZ03SZFCQ:660:87
+h.xl/c/<@https://www.googletagmanager.com/gtag/js?id=G-WCZ03SZFCQ:660:410
+
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 48: Script terminated by timeout at:
+Ta.prototype.Vb@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:332
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:497
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:477
+dn/this.Ka/<@https://acdn.adnxs-simple.com/strikeforce/script.js:1:51401
+dL/<@https://acdn.adnxs-simple.com/strikeforce/script.js:1:76182
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.repeato.app/wp-content/plugins/complianz-gdpr-premium/cookiebanner/js/complianz.min.js, line 1: Script terminated by timeout at:
+cmplz_accepted_categories@https://www.repeato.app/wp-content/plugins/complianz-gdpr-premium/cookiebanner/js/complianz.min.js:1:27964
+cmplz_track_status@https://www.repeato.app/wp-content/plugins/complianz-gdpr-premium/cookiebanner/js/complianz.min.js:1:27216
+cmplz_track_status_end@https://www.repeato.app/wp-content/plugins/complianz-gdpr-premium/cookiebanner/js/complianz.min.js:1:26265
+
+1733031332042	Marionette	INFO	Stopped listening on port 59051
+Dynamically enable window occlusion 1
+on port 59645
+WebDriver BiDi listening on ws://127.0.0.1:59638
+Read port: 59645
+1733031303476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59638/devtools/browser/e1b2d064-9cdd-4349-b6f7-920749f9cc70
+1733031305682	Marionette	INFO	Stopped listening on port 59645
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/actors/ContentMetaChild.sys.mjs, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1733031344473	geckodriver	INFO	Listening on 127.0.0.1:59688
+1733031347522	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59689" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilePezqQ3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733031347874	Marionette	INFO	Marionette enabled
+1733031348005	Marionette	INFO	Listening on port 59696
+WebDriver BiDi listening on ws://127.0.0.1:59689
+Read port: 59696
+1733031348206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59689/devtools/browser/d873ca0c-3027-43ea-8429-2509760574c6
+1733031350187	Marionette	INFO	Stopped listening on port 59696
+Dynamically enable window occlusion 1
+1733031370790	geckodriver	INFO	Listening on 127.0.0.1:59735
+1733031373856	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59736" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileo4kXDO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733031374209	Marionette	INFO	Marionette enabled
+1733031374336	Marionette	INFO	Listening on port 59744
+WebDriver BiDi listening on ws://127.0.0.1:59736
+Read port: 59744
+1733031374539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59736/devtools/browser/3182d4dd-5d6c-4df5-af8f-15ddbf0f1cee
+1733031376462	Marionette	INFO	Stopped listening on port 59744
+Dynamically enable window occlusion 1
+1733031395353	geckodriver	INFO	Listening on 127.0.0.1:59778
+1733031398411	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59779" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileRza1Pa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733031398767	Marionette	INFO	Marionette enabled
+1733031398898	Marionette	INFO	Listening on port 59787
+WebDriver BiDi listening on ws://127.0.0.1:59779
+Read port: 59787
+1733031399087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59779/devtools/browser/97872738-6a39-4015-8ebf-6bb3f0e82aca
+1733031411197	Marionette	INFO	Stopped listening on port 59787
+Dynamically enable window occlusion 1
+1733031759412	geckodriver	INFO	Listening on 127.0.0.1:60021
+1733031762461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60022" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilekmwnNZ"
+1733031779522	geckodriver	INFO	Listening on 127.0.0.1:60052
+1733031782593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60053" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileASsjhT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733031782948	Marionette	INFO	Marionette enabled
+1733031783079	Marionette	INFO	Listening on port 60061
+WebDriver BiDi listening on ws://127.0.0.1:60053
+Read port: 60061
+1733031783235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1733031795423	Marionette	INFO	Stopped listening on port 60061
+Dynamically enable window occlusion 1
+1733031853205	geckodriver	INFO	Listening on 127.0.0.1:60107
+1733031856261	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60108" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilei8H3CK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733031856631	Marionette	INFO	Marionette enabled
+1733031856769	Marionette	INFO	Listening on port 60115
+WebDriver BiDi listening on ws://127.0.0.1:60108
+Read port: 60115
+1733031856953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.phonos.init%7Cext.scribunto.logs%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.gallery%2Cmedia%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Ccodex%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022%7Cwikibase.sidebar.tracking&skin=vector-2022&version=19isk, line 97: Script terminated by timeout at:
+ext.eventLogging/BackgroundQueue.js/BackgroundQueue/<@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.phonos.init%7Cext.scribunto.logs%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.gallery%2Cmedia%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Ccodex%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022%7Cwikibase.sidebar.tracking&skin=vector-2022&version=19isk:97:591
+
+1733031870065	Marionette	INFO	Stopped listening on port 60115
+Dynamically enable window occlusion 1
+1733031932930	geckodriver	INFO	Listening on 127.0.0.1:60172
+1733031935988	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60173" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileup5kcp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733031936349	Marionette	INFO	Marionette enabled
+1733031936482	Marionette	INFO	Listening on port 60180
+WebDriver BiDi listening on ws://127.0.0.1:60173
+Read port: 60180
+1733031936640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1733032006840	Marionette	INFO	Stopped listening on port 60180
+Dynamically enable window occlusion 1
+1733032009675	geckodriver	INFO	Listening on 127.0.0.1:60233
+1733032012739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60234" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileMsHj53"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733032013098	Marionette	INFO	Marionette enabled
+1733032013232	Marionette	INFO	Listening on port 60241
+WebDriver BiDi listening on ws://127.0.0.1:60234
+Read port: 60241
+1733032013393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1733032061888	Marionette	INFO	Stopped listening on port 60241
+Dynamically enable window occlusion 1
+1733032520156	geckodriver	INFO	Listening on 127.0.0.1:60499
+1733032523228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60500" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileUt9kKD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733032523594	Marionette	INFO	Marionette enabled
+1733032523730	Marionette	INFO	Listening on port 60509
+Read port: 60509
+WebDriver BiDi listening on ws://127.0.0.1:60500
+1733032523806	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1733032647056	Marionette	INFO	Stopped listening on port 60509
+Dynamically enable window occlusion 1
+1733034114103	geckodriver	INFO	Listening on 127.0.0.1:61695
+1733034117164	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61696" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileQVYT5A"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733034117522	Marionette	INFO	Marionette enabled
+1733034117660	Marionette	INFO	Listening on port 61705
+WebDriver BiDi listening on ws://127.0.0.1:61696
+Read port: 61705
+1733034117820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1733034157954	Marionette	INFO	Stopped listening on port 61705
+Dynamically enable window occlusion 1
+1733034403445	geckodriver	INFO	Listening on 127.0.0.1:61952
+1733034406498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61953" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileLkpFjD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733034406856	Marionette	INFO	Marionette enabled
+1733034406991	Marionette	INFO	Listening on port 61961
+WebDriver BiDi listening on ws://127.0.0.1:61953
+Read port: 61961
+1733034407149	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: dummy file, line 3: Script terminated by timeout at:
+ca<@dummy file:3:200
+T@dummy file:15:306
+Za@dummy file:31:68
+db@dummy file:36:94
+eb@dummy file:36:322
+@dummy file:36:611
+@dummy file:36:636
+@dummy file:37:2
+@dummy file:38:8
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 566))
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 566))
+JavaScript error: resource:///modules/FaviconLoader.sys.mjs, line 582: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.sys.mjs, line 582: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1733034411163	Marionette	INFO	Stopped listening on port 61961
+Dynamically enable window occlusion 1
+1733034436099	geckodriver	INFO	Listening on 127.0.0.1:62007
+1733034439174	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62008" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile1c21a1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733034439532	Marionette	INFO	Marionette enabled
+1733034439669	Marionette	INFO	Listening on port 62018
+WebDriver BiDi listening on ws://127.0.0.1:62008
+Read port: 62018
+1733034439832	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+1733034605313	geckodriver	INFO	Listening on 127.0.0.1:62165
+1733034608390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62166" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilelxTAaq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733034608747	Marionette	INFO	Marionette enabled
+1733034608886	Marionette	INFO	Listening on port 62174
+WebDriver BiDi listening on ws://127.0.0.1:62166
+Read port: 62174
+1733034609046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1733034648079	Marionette	INFO	Stopped listening on port 62174
+Dynamically enable window occlusion 1
+1733034961462	geckodriver	INFO	Listening on 127.0.0.1:62460
+1733034964532	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62461" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileROxyWj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733034964889	Marionette	INFO	Marionette enabled
+1733034965028	Marionette	INFO	Listening on port 62471
+WebDriver BiDi listening on ws://127.0.0.1:62461
+Read port: 62471
+1733034965195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1733034984658	Marionette	INFO	Stopped listening on port 62471
+Dynamically enable window occlusion 1
+1733035004921	geckodriver	INFO	Listening on 127.0.0.1:62536
+1733035007994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62537" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileSAEhZc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733035008360	Marionette	INFO	Marionette enabled
+1733035008495	Marionette	INFO	Listening on port 62548
+WebDriver BiDi listening on ws://127.0.0.1:62537
+Read port: 62548
+1733035008651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1733035026365	Marionette	INFO	Stopped listening on port 62548
+Dynamically enable window occlusion 1
+1733035060881	geckodriver	INFO	Listening on 127.0.0.1:62623
+1733035063952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62624" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileRuWsSu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733035064317	Marionette	INFO	Marionette enabled
+1733035064454	Marionette	INFO	Listening on port 62632
+WebDriver BiDi listening on ws://127.0.0.1:62624
+Read port: 62632
+1733035064527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1733035081536	Marionette	INFO	Stopped listening on port 62632
+Dynamically enable window occlusion 1
+1733035104516	geckodriver	INFO	Listening on 127.0.0.1:62689
+1733035107564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62690" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileDSZYC6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733035107926	Marionette	INFO	Marionette enabled
+1733035108061	Marionette	INFO	Listening on port 62699
+WebDriver BiDi listening on ws://127.0.0.1:62690
+Read port: 62699
+1733035108224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1733035126598	Marionette	INFO	Stopped listening on port 62699
+Dynamically enable window occlusion 1
+1733036269059	geckodriver	INFO	Listening on 127.0.0.1:63589
+1733036272133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63590" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileNzzwGZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733036272495	Marionette	INFO	Marionette enabled
+1733036272632	Marionette	INFO	Listening on port 63600
+WebDriver BiDi listening on ws://127.0.0.1:63590
+Read port: 63600
+1733036272791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://practicetestautomation.com."
+1733036289706	Marionette	INFO	Stopped listening on port 63600
+Dynamically enable window occlusion 1
+1733036355917	geckodriver	INFO	Listening on 127.0.0.1:63688
+1733036358992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63689" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileFZDqDV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733036359374	Marionette	INFO	Marionette enabled
+1733036359540	Marionette	INFO	Listening on port 63699
+WebDriver BiDi listening on ws://127.0.0.1:63689
+Read port: 63699
+1733036359742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://practicetestautomation.com."
+1733036375489	Marionette	INFO	Stopped listening on port 63699
+Dynamically enable window occlusion 1
+1733036531848	geckodriver	INFO	Listening on 127.0.0.1:63896
+1733036534926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63897" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileTpc2uj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733036535291	Marionette	INFO	Marionette enabled
+1733036535424	Marionette	INFO	Listening on port 63905
+WebDriver BiDi listening on ws://127.0.0.1:63897
+Read port: 63905
+1733036535582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://practicetestautomation.com."
+1733036556613	Marionette	INFO	Stopped listening on port 63905
+Dynamically enable window occlusion 1
+1733036580567	geckodriver	INFO	Listening on 127.0.0.1:63969
+1733036583645	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63970" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileBCCvy7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733036584021	Marionette	INFO	Marionette enabled
+1733036584155	Marionette	INFO	Listening on port 63978
+WebDriver BiDi listening on ws://127.0.0.1:63970
+Read port: 63978
+1733036584337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://practicetestautomation.com."
+1733036600051	Marionette	INFO	Stopped listening on port 63978
+Dynamically enable window occlusion 1
+1733037528502	geckodriver	INFO	Listening on 127.0.0.1:64812
+1733037531560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64813" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileipRhrN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733037531919	Marionette	INFO	Marionette enabled
+1733037532055	Marionette	INFO	Listening on port 64823
+WebDriver BiDi listening on ws://127.0.0.1:64813
+Read port: 64823
+1733037532212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.error: ({})
+console.error: ({})
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+JavaScript warning: https://github.githubassets.com/assets/vendors-node_modules_github_quote-selection_dist_index_js-node_modules_github_session-resume_-0b5e12-889cec8cf448.js, line 31: Script terminated by timeout at:
+c@https://github.githubassets.com/assets/vendors-node_modules_github_quote-selection_dist_index_js-node_modules_github_session-resume_-0b5e12-889cec8cf448.js:31:8553
+57226/U/</<@https://github.githubassets.com/assets/vendors-node_modules_github_quote-selection_dist_index_js-node_modules_github_session-resume_-0b5e12-889cec8cf448.js:31:8940
+t@https://github.githubassets.com/assets/vendors-node_modules_github_quote-selection_dist_index_js-node_modules_github_session-resume_-0b5e12-889cec8cf448.js:31:3904
+
+1733037542701	Marionette	INFO	Stopped listening on port 64823
+Dynamically enable window occlusion 1
+1733037602767	geckodriver	INFO	Listening on 127.0.0.1:64907
+1733037605848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64908" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile6OyVAL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733037606207	Marionette	INFO	Marionette enabled
+1733037606341	Marionette	INFO	Listening on port 64917
+WebDriver BiDi listening on ws://127.0.0.1:64908
+Read port: 64917
+1733037606502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1733037618542	Marionette	INFO	Stopped listening on port 64917
+Dynamically enable window occlusion 1
+1733038325799	geckodriver	INFO	Listening on 127.0.0.1:65493
+1733038328882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65494" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileZDVj4u"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733038329246	Marionette	INFO	Marionette enabled
+1733038329380	Marionette	INFO	Listening on port 65504
+WebDriver BiDi listening on ws://127.0.0.1:65494
+Read port: 65504
+1733038329538	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1733038353638	Marionette	INFO	Stopped listening on port 65504
+Dynamically enable window occlusion 1
+1733038411776	geckodriver	INFO	Listening on 127.0.0.1:49211
+1733038414841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49212" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileVXEFye"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733038415195	Marionette	INFO	Marionette enabled
+1733038415332	Marionette	INFO	Listening on port 49221
+WebDriver BiDi listening on ws://127.0.0.1:49212
+Read port: 49221
+1733038415489	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1733038439050	Marionette	INFO	Stopped listening on port 49221
+Dynamically enable window occlusion 1
+1733038900790	geckodriver	INFO	Listening on 127.0.0.1:49643
+1733038903862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49644" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileJ0if6D"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733038904219	Marionette	INFO	Marionette enabled
+1733038904354	Marionette	INFO	Listening on port 49656
+WebDriver BiDi listening on ws://127.0.0.1:49644
+Read port: 49656
+1733038904526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1733038922109	Marionette	INFO	Stopped listening on port 49656
+Dynamically enable window occlusion 1
+1733039640442	geckodriver	INFO	Listening on 127.0.0.1:50832
+1733039643498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50833" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileWKs5Ef"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733039643908	Marionette	INFO	Marionette enabled
+1733039644056	Marionette	INFO	Listening on port 50843
+WebDriver BiDi listening on ws://127.0.0.1:50833
+Read port: 50843
+1733039644281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6301 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1261 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1553 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6321 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4631 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1553 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 949 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1532182917, line 96: Script terminated by timeout at:
+vf.prototype.isVisible@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1532182917:96:1170
+ro@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1532182917:196:243
+ur.prototype.o@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1532182917:250:33
+xr/<@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1532182917:248:975
+l.Ug/</<@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1532182917:179:127
+l.Ud/<@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1532182917:178:700
+Lm/<@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1532182917:173:1176
+l.Ud@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1532182917:178:833
+l.Ug/<@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1532182917:179:102
+Lm/<@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1532182917:173:1220
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 942 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 48: Script terminated by timeout at:
+Va@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:534
+Xa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:304
+Ua.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:127
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:483
+ih/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:292
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+R/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:101:1469
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+M/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:473
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+R/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:101:1469
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+M/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:473
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+Bd/k/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:510
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:477
+
+1733039869641	Marionette	INFO	Stopped listening on port 50843
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
+1733039875286	geckodriver	INFO	Listening on 127.0.0.1:51441
+1733039878340	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51442" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileE9ElUR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733039878755	Marionette	INFO	Marionette enabled
+1733039878906	Marionette	INFO	Listening on port 51450
+WebDriver BiDi listening on ws://127.0.0.1:51442
+Read port: 51450
+1733039879115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1043 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 7698 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 598 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 3547 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2824 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 5345 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://browser.sentry-cdn.com/6.13.3/bundle.tracing.min.js, line 2: Script terminated by timeout at:
+sentryWrapped@https://browser.sentry-cdn.com/6.13.3/bundle.tracing.min.js:2:58277
+
+1733039951509	Marionette	INFO	Stopped listening on port 51450
+Dynamically enable window occlusion 1
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
+1733039959094	geckodriver	INFO	Listening on 127.0.0.1:51846
+1733039962160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51847" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileQBCR0e"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733039962524	Marionette	INFO	Marionette enabled
+1733039962659	Marionette	INFO	Listening on port 51856
+WebDriver BiDi listening on ws://127.0.0.1:51847
+Read port: 51856
+1733039962818	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 3702 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 7333 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 7518 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 420 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1783 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1733039982201	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1733039982212	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1346 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1733039989231	Marionette	INFO	Stopped listening on port 51856
+JavaScript warning: https://bsrv.bidsxchange.com/codebase/bsrv_v2/templates_v2/STDB_HB/third-party-stdb/third-party-stdb_all_DSK_all_all.js, line 422: Script terminated by timeout at:
+init_tp/This.task<@https://bsrv.bidsxchange.com/codebase/bsrv_v2/templates_v2/STDB_HB/third-party-stdb/third-party-stdb_all_DSK_all_all.js:422:20
+
+Dynamically enable window occlusion 1
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
+1733040058234	geckodriver	INFO	Listening on 127.0.0.1:52229
+1733040061308	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52230" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileQN7Gi3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733040061673	Marionette	INFO	Marionette enabled
+1733040061803	Marionette	INFO	Listening on port 52239
+WebDriver BiDi listening on ws://127.0.0.1:52230
+Read port: 52239
+1733040061968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6599 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1508 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2209 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 671 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 7465 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 3792 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1733040076436	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1733040076493	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1733040089141	Marionette	INFO	Stopped listening on port 52239
+JavaScript warning: https://bsrv.bidsxchange.com/codebase/bsrv_v2/templates_v2/STDB_HB/third-party-stdb/third-party-stdb_all_DSK_all_all.js, line 422: Script terminated by timeout at:
+init_tp/This.task<@https://bsrv.bidsxchange.com/codebase/bsrv_v2/templates_v2/STDB_HB/third-party-stdb/third-party-stdb_all_DSK_all_all.js:422:20
+
+Dynamically enable window occlusion 1
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
+1733040168354	geckodriver	INFO	Listening on 127.0.0.1:52610
+1733040171403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52611" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile2oW77K"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733040171769	Marionette	INFO	Marionette enabled
+1733040171917	Marionette	INFO	Listening on port 52620
+WebDriver BiDi listening on ws://127.0.0.1:52611
+Read port: 52620
+1733040172102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4517 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 736 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 5947 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 3423 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 258 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1733040186742	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1733040186748	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4696 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1733040198742	Marionette	INFO	Stopped listening on port 52620
+JavaScript warning: https://bsrv.bidsxchange.com/codebase/bsrv_v2/templates_v2/STDB_HB/third-party-stdb/third-party-stdb_all_DSK_all_all.js, line 422: Script terminated by timeout at:
+init_tp/This.task<@https://bsrv.bidsxchange.com/codebase/bsrv_v2/templates_v2/STDB_HB/third-party-stdb/third-party-stdb_all_DSK_all_all.js:422:20
+
+JavaScript warning: https://test-fsrv.bidsxchange.com/659, line 83: Script terminated by timeout at:
+adIframeMonitor<@https://test-fsrv.bidsxchange.com/659:83:7
+
+Dynamically enable window occlusion 1
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
