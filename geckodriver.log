@@ -361,3 +361,93 @@ JavaScript warning: https://m.media-amazon.com/images/S/sash/IWpDo4-LEUkpub0.js,
 [2]</n<@https://m.media-amazon.com/images/S/sash/IWpDo4-LEUkpub0.js:1:1320
 
 Dynamically enable window occlusion 1
+1733412577977	geckodriver	INFO	Listening on 127.0.0.1:52049
+1733412581070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52050" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilewu6Wuh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733412581461	Marionette	INFO	Marionette enabled
+1733412581614	Marionette	INFO	Listening on port 52069
+WebDriver BiDi listening on ws://127.0.0.1:52050
+Read port: 52069
+1733412581881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1733412590512	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733412590512	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733412590513	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733412597985	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733412602671	Marionette	INFO	Stopped listening on port 52069
+JavaScript warning: https://db187550c7dkf.cloudfront.net/jwplayer-unlimited-8.25.6/jwplayer.core.js, line 10: Script terminated by timeout at:
+668/i.get@https://db187550c7dkf.cloudfront.net/jwplayer-unlimited-8.25.6/jwplayer.core.js:10:82804
+at@https://db187550c7dkf.cloudfront.net/jwplayer-unlimited-8.25.6/jwplayer.core.js:10:75507
+668/Dt/ot/k<@https://db187550c7dkf.cloudfront.net/jwplayer-unlimited-8.25.6/jwplayer.core.js:10:75473
+
+Dynamically enable window occlusion 1
+1733507127826	geckodriver	INFO	Listening on 127.0.0.1:50625
+1733507130931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50626" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilek1d92Y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733507131395	Marionette	INFO	Marionette enabled
+1733507131612	Marionette	INFO	Listening on port 50633
+WebDriver BiDi listening on ws://127.0.0.1:50626
+Read port: 50633
+1733507131839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+1733507230926	geckodriver	INFO	Listening on 127.0.0.1:50774
+1733507233976	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50775" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile5rky5b"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733507234391	Marionette	INFO	Marionette enabled
+1733507234589	Marionette	INFO	Listening on port 50783
+WebDriver BiDi listening on ws://127.0.0.1:50775
+Read port: 50783
+1733507234770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1733507242672	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733507242673	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733507242677	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733507254035	Marionette	INFO	Stopped listening on port 50783
+JavaScript warning: https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js, line 25: Script terminated by timeout at:
+tB@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:20808
+
+Dynamically enable window occlusion 1
+1733507740738	geckodriver	INFO	Listening on 127.0.0.1:51135
+1733507743817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51136" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile12CXQ6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733507744282	Marionette	INFO	Marionette enabled
+1733507744461	Marionette	INFO	Listening on port 51143
+WebDriver BiDi listening on ws://127.0.0.1:51136
+Read port: 51143
+1733507744662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1733507751791	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733507751791	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733507751791	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733507757617	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733507757628	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733507757629	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733507762497	Marionette	INFO	Stopped listening on port 51143
+JavaScript warning: https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js, line 25: Script terminated by timeout at:
+tB@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:20808
+
+Dynamically enable window occlusion 1
+1733507870340	geckodriver	INFO	Listening on 127.0.0.1:51305
+1733507873412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51306" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilejg3WBR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733507873822	Marionette	INFO	Marionette enabled
+1733507873960	Marionette	INFO	Listening on port 51313
+WebDriver BiDi listening on ws://127.0.0.1:51306
+Read port: 51313
+1733507874150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1733507882246	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733507882246	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733507882246	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733507887807	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733507887807	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733507887807	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733507892660	Marionette	INFO	Stopped listening on port 51313
+Dynamically enable window occlusion 1
